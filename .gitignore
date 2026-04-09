@@ -1,0 +1,21 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+
+# 敏感信息
+.env
+*.key
+*.pem
+
+# 数据和日志
+model/
+logs/
+checkpoints/
